@@ -1,0 +1,7 @@
+rain
+sunny
+cloudy
+windy
+cold
+hot
+these are types of weather
