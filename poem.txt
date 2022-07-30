@@ -4,4 +4,5 @@ cloudy
 windy
 cold
 hot
+cold and hot combined
 these are types of weather
